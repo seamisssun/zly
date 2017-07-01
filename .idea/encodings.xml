@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/C7/Test1.java" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/C3/Job1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/C5/Test6.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Day12/DVD/Dvdmanger.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Day12/DVD/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Day12/HM1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Day12/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Day13/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HM15/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HM15/Dog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HM15/Test.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -87,7 +87,7 @@ public class HM1 {
 //一年的天数
 	public static int yeardiff(int year) {
 		int yeardiff = 0;
-		for (int ys = 1900; ys <year; ys++) {
+		for (int ys = 1900; ys <=year; ys++) {
 			if (runyear(year)) {
 				yeardiff += 366;
 			} else {

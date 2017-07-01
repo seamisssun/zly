@@ -1,0 +1,17 @@
+package HM13;
+
+public class Dog extends Pet {
+
+	public Dog(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+	public void eat(Food food){
+		if(food.getKind().equals("¼¦¹ÇÍ·")){
+		System.out.println(this.name+"...ÔÚ³Ô...¼¦¹ÇÍ·");
+	}
+		else{
+		System.out.println(this.name+"...²»³Ô...Óã");
+	}
+	}
+}
